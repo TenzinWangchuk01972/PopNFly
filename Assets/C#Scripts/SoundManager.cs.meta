@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6968242701fb9204ebcb00b4b056695d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundOn: {fileID: 21300000, guid: 9cb3b99f7b82a174e8e665a0a1c29f6b, type: 3}
+  - soundOff: {fileID: 21300000, guid: 1314f15046653cd46bf19d34b122a7b8, type: 3}
+  - soundBT: {instanceID: 0}
+  - musicOn: {fileID: 21300000, guid: 712c9d02c72fc554c88f410749adc4b3, type: 3}
+  - musicOff: {fileID: 21300000, guid: 67fbdf7beb5262348a357e94666f8ec4, type: 3}
+  - musicBT: {instanceID: 0}
+  - vibrationOn: {fileID: 21300000, guid: 6b04f6a16234feb48bbff91c89f0c348, type: 3}
+  - vibrationOff: {fileID: 21300000, guid: 80ad09113d19e9a41b4c3e2b573220e7, type: 3}
+  - vibrationBT: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
